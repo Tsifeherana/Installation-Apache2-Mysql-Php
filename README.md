@@ -1,5 +1,6 @@
 # Devoir Linux
  	--------------------------------INSTALLATION APACHE2------------------------------------------
+  
 	1)Télécharger apache2 sur son site officiel: https://httpd.apache.org/download.cgi
 	2)Décompresser et désarchiver simultanément httpd-2.4.59.tar.gz
 		tar -xzf httpd-2.4.59.tar.gz
