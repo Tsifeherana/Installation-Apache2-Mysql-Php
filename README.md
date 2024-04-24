@@ -18,7 +18,7 @@
 
 	-----------------------------------------INSTALLATION PHP---------------------------------------------------
 
-	-Télécharger php dans le suite officiel de php : php-8.3.6.tar.gz (fichiers code source et archiver)
+	-Télécharger php dans le suite officiel de php : https://www.php.net/downloads.php
 	-Décompresser et désarchiver simultanément php-8.3.6.tar.gz :
 		$tar -xzf php-8.3.6.tar.gz
 	-Entrez dans le répertoire après la décompression : php-8.3.6
@@ -39,7 +39,7 @@
 
 	 ----------------------------------------INSTALLATION MYSQL-----------------------------------------------
 
-	-Télécharger mysql dans le suite officiel de mysql : mysql-8.3.0.tar.gz (fichiers code source et archives)
+	-Télécharger mysql dans le suite officiel de mysql : https://dev.mysql.com/downloads/mysql/
 	-Décompresser et désarchiver simultanément mysql-8.3.0.tar.gz :
 	:~$tar -xzf mysql-8.3.0.tar.gz
 	-Entrez dans le répertoire après la décompression : mysql-8.3.0
