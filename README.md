@@ -2,7 +2,7 @@
 
 -Télécharger apache2 sur son site officiel: https://httpd.apache.org/download.cgi
 -Décompresser et désarchiver simultanément httpd-2.4.59.tar.gz
-	:~$tar -xzf httpd-2.4.59.tar.gz
+	tar -xzf httpd-2.4.59.tar.gz
 -Entrez dans le répertoire après la décompression : httpd-2.4.59
 	:~$cd httpd-2.4.59
 -Avant d’exécuter le fichier configuration, il faut :
