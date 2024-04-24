@@ -13,4 +13,4 @@
 -Lancer la commande make :
 	:~$make
 -installer installer les fichiers binaires, les bibliothèques, les en-têtes et d'autres ressources d’apache2 dans leurs emplacements finaux sur le système à l’aide du commande :
-	:~$sudo make install
+	:~$sudo make install 
